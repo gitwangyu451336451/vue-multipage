@@ -16,7 +16,7 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
-```niasmd
+```niasmd00000000
 #访问地址
 http://localhost:8080/mult/page1.html#/
 http://localhost:8080/mult/page2.html#/
