@@ -1,6 +1,6 @@
 <template>
   <div class="wrapper">
-    <a v-for="item in data" :key="item">{{item+2}}</a>
+    <a v-for="item in data" :key="item">{{item+2+2}}</a>
   </div>
 </template>
 
